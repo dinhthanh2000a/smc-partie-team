@@ -1,0 +1,9 @@
+/Users/macbookpro14-thanh/Documents/thanh/rust/near-rust/hackathon/smc-partie/Voting/target/debug/deps/libfutures_macro-e0dd99fbdb96d70d.dylib: /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/lib.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/executor.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/join.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/select.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/stream_select.rs
+
+/Users/macbookpro14-thanh/Documents/thanh/rust/near-rust/hackathon/smc-partie/Voting/target/debug/deps/futures_macro-e0dd99fbdb96d70d.d: /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/lib.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/executor.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/join.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/select.rs /Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/stream_select.rs
+
+/Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/lib.rs:
+/Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/executor.rs:
+/Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/join.rs:
+/Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/select.rs:
+/Users/macbookpro14-thanh/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.25/src/stream_select.rs:
